@@ -2,6 +2,9 @@
 <!--
 **ruhiambelkar17/ruhiambelkar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,13 +24,12 @@ Here are some ideas to get you started:
  ![Static Badge](https://img.shields.io/badge/TypeScript-231DA1) <br> <br>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhiambelkar17&label=Profile-views&color=0e75b6&style=flat" alt="sufi-webverse" /> </p>
+
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ruhiambelkar17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruhiambelkar17&theme=dark&hide_border=false)<br/> <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhiambelkar17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-
----
-[![](https://visitcount.itsvg.in/api?id=ruhiambelkar17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
